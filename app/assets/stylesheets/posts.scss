@@ -1,6 +1,18 @@
 // Place all the styles related to the posts controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+.unliked-btn {
+  color: #8899a6;
+}
+
+.liked-btn {
+  color: #ff2581;
+}
+
+.posts-show-item .fa {
+  font-size: 16px;
+  margin-right: 3px;
+}
 /* posts/index ================================ */
 .posts-index-item {
   padding: 20px 30px;
